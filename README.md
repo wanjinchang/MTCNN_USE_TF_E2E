@@ -1,7 +1,8 @@
-# MTCNN face detection using TensorFlow End2End
+# MTCNN face detection & alignment all in TensorFlow
+
 
 ### Introduction
-This is a demo for MTCNN using TensorFlow api end2end.For more details, please refer to the paper [arXiv paper](https://arxiv.org/pdf/1604.02878.pdf).
+This is a demo for MTCNN implement all using TensorFlow api.For more details, please refer to the paper [arXiv paper](https://arxiv.org/pdf/1604.02878.pdf).
 
 ### Dependencies
 * Tensorflow 1.4.1
