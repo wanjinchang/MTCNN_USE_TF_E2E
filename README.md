@@ -21,17 +21,12 @@ the result is  'examples/*_result.jpg'.
 
 demo_result:
 
-<img align="right" src="https://github.com/wanjinchang/MTCNN_USE_TF_E2E/blob/master/examples/1_result.jpg">
+![result1.png](https://github.com/wanjinchang/MTCNN_USE_TF_E2E/blob/master/examples/1_result.jpg)
 
-<img align="right" src="https://github.com/wanjinchang/MTCNN_USE_TF_E2E/blob/master/examples/2_result.jpg">
+![result3.png](https://github.com/wanjinchang/MTCNN_USE_TF_E2E/blob/master/examples/img_140_result.jpg)
 
-<img align="right" src="https://github.com/wanjinchang/MTCNN_USE_TF_E2E/blob/master/examples/img_140_result.jpg">
-
-<img align="right" src="https://github.com/wanjinchang/MTCNN_USE_TF_E2E/blob/master/examples/img_414_result.jpg">
+![result3.png](https://github.com/wanjinchang/MTCNN_USE_TF_E2E/blob/master/examples/img_414_result.jpg)
 
 ### References
 1. Kaipeng Zhang, Zhanpeng Zhang, Zhifeng Li, Yu Qiao , " Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks," IEEE Signal Processing Letter(https://arxiv.org/pdf/1604.02878.pdf).
 2. [facenet](https://github.com/davidsandberg/facenet)
-
-
-
