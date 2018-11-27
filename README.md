@@ -15,8 +15,6 @@ First you should run 'python npy2ckpt.py' to convert the three npy file for pnet
 
 Then Replace your pictures in 'examples' and run 'python demo.py'.
 
-The result is in 'examples/*_result.jpg'.
-
 ### Result
 
 demo_result:
