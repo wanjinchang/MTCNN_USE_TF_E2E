@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/oeasy/PycharmProjects/oeasy_face_lib_bak/align/mtcnn_graph/mtcnn.ckpt"
+all_model_checkpoint_paths: "/home/oeasy/PycharmProjects/oeasy_face_lib_bak/align/mtcnn_graph/mtcnn.ckpt"
