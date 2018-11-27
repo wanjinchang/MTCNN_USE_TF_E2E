@@ -21,11 +21,11 @@ the result is  'examples/*_result.jpg'.
 
 demo_result:
 
-<img align="center" src="https://github.com/wanjinchang/MTCNN_USE_TF_E2E/blob/master/examples/1_result.jpg">
+<div align=center><img src="https://github.com/wanjinchang/MTCNN_USE_TF_E2E/blob/master/examples/1_result.jpg"/></div>
 
-<img align="center" src="https://github.com/wanjinchang/MTCNN_USE_TF_E2E/blob/master/examples/img_140_result.jpg">
+<div align=center><img src="https://github.com/wanjinchang/MTCNN_USE_TF_E2E/blob/master/examples/img_140_result.jpg"/></div>
 
-<img align="center" src="https://github.com/wanjinchang/MTCNN_USE_TF_E2E/blob/master/examples/img_414_result.jpg">
+<div align=center><img src="https://github.com/wanjinchang/MTCNN_USE_TF_E2E/blob/master/examples/img_414_result.jpg"/></div>
 
 &nbsp;
 &nbsp;
