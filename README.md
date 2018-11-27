@@ -1,4 +1,4 @@
-# MTCNN face detection using tensorflow end2end
+# MTCNN face detection using TensorFlow End2End
 
 ### Introduction
 This is a demo for MTCNN using TensorFlow api end2end.For more details, please refer to the paper [arXiv paper](https://arxiv.org/pdf/1604.02878.pdf).
@@ -13,9 +13,9 @@ This is a demo for MTCNN using TensorFlow api end2end.For more details, please r
 ### Usage
 First you should run 'python npy2ckpt.py' to convert the three npy file for pnet/rnet/onet to one ckpt if you do not have the ckpt file(Note:the three npy files and converted ckpt file already in mtcnn_model of this repository).
 
-Then Replace your picture in 'examples' and run 'python demo.py'.
+Then Replace your pictures in 'examples' and run 'python demo.py'.
 
-the result is  'examples/*_result.jpg'.
+the result is in 'examples/*_result.jpg'.
 
 ### Result
 
