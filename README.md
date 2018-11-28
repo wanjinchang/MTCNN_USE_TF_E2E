@@ -2,7 +2,7 @@
 
 
 ### Introduction
-This is a demo for MTCNN implement all using TensorFlow api.For more details, please refer to the paper [arXiv paper](https://arxiv.org/pdf/1604.02878.pdf).
+This is a demo for MTCNN implement all using TensorFlow api to take advantage of GPU computing resource.For more details of MTCNN, please refer to the paper [arXiv paper](https://arxiv.org/pdf/1604.02878.pdf).
 
 ### Dependencies
 * TensorFlow 1.4.1
