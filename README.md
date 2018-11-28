@@ -5,7 +5,7 @@
 This is a demo for MTCNN implement all using TensorFlow api.For more details, please refer to the paper [arXiv paper](https://arxiv.org/pdf/1604.02878.pdf).
 
 ### Dependencies
-* Tensorflow 1.4.1
+* TensorFlow 1.4.1
 * TF-Slim
 * Python 3.6
 * Ubuntu 16.04
