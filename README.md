@@ -12,7 +12,7 @@ This is a demo for MTCNN implementation all in TensorFlow api to take advantage 
 * Cuda 8.0
 
 ### Usage
-First you should run 'python npy2ckpt.py' to convert the three npy file for pnet/rnet/onet to one ckpt if you do not have the ckpt file(Note:the three npy files and converted ckpt file already in mtcnn_model of this repository).
+First you should run 'python npy2ckpt.py' to convert the three npy files(get from [facenet](https://github.com/davidsandberg/facenet)) for pnet/rnet/onet to one ckpt if you do not have the ckpt file(Note:the three npy files and converted ckpt file already in mtcnn_model of this repository).
 
 Then Replace your pictures in 'examples' and run 'python demo.py'.
 
